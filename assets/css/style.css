@@ -168,7 +168,7 @@ header
     line-height: 50px;
     font-weight: bold;
     color: transparent !important;;
-    -webkit-text-stroke: 0.01px #fff;
+    -webkit-text-stroke: 1px #fff;
     background: url('../img/back.png');
     -webkit-background-clip: text;
     background-position: 0 0;
