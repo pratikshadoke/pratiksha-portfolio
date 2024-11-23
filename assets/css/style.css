@@ -3,7 +3,7 @@ html {
     height: 100%;
     /* Make sure body and html elements take up the full height */
     gap: 40px;
-    font-family: 'Poppins', sans-serif !important;
+    font-family: "Montserrat", sans-serif !important;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
