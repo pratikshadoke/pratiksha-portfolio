@@ -3,7 +3,8 @@ html {
     height: 100%;
     /* Make sure body and html elements take up the full height */
     gap: 40px;
-    font-family: "Century Gothic", sans-serif !important;
+    font-family: 'Poppins', sans-serif !important;
+
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: rgba(215, 219, 221 , 0.8);
